@@ -1,4 +1,3 @@
-# Dataset-Narkotika_382_410.
 ## ABOUT DATASET 
 
 ## Deskripsi Dataset 
