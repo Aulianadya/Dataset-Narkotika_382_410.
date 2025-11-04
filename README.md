@@ -1,5 +1,11 @@
 ## ABOUT DATASET 
 
+Tugas ini dibuat oleh : 
+Aulia Nadya C (202210370311382)
+Larasati Khadijah K.K (202210370311410) 
+
+Temu Kembali Informasi A
+
 ## Deskripsi Dataset 
 Dataset Narkotika merupakan kumpulan data putusan pengadilan yang berkaitan dengan tindak pidana narkotika di Indonesia khususnya pada pengadilan negeri di kota Gresik. 
 Dataset ini terdiri dari arsip data dalam format .zip dan file overview dalam format .xlsx
@@ -30,10 +36,3 @@ File ini membantu memahami karakteristik dataset sebelum digunakan untuk pelatih
 2.	**Ekstrak File**
    ```bash
    unzip Narkotika.zip -d data/
-
-
-Tugas ini dibuat oleh : 
-Aulia Nadya C (202210370311382)
-Larasati Khadijah K.K (202210370311410) 
-
-Temu Kembali Informasi A
