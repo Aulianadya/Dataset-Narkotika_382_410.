@@ -30,3 +30,10 @@ File ini membantu memahami karakteristik dataset sebelum digunakan untuk pelatih
 2.	**Ekstrak File**
    ```bash
    unzip Narkotika.zip -d data/
+
+
+Tugas ini dibuat oleh : 
+Aulia Nadya C (202210370311382)
+Larasati Khadijah K.K (202210370311410) 
+
+Temu Kembali Informasi A
